@@ -1,0 +1,10 @@
+D:\Documents\source\Projects\StormTrooperShooter\bin\Debug\StormTrooperShooter.exe.config
+D:\Documents\source\Projects\StormTrooperShooter\bin\Debug\StormTrooperShooter.exe
+D:\Documents\source\Projects\StormTrooperShooter\bin\Debug\StormTrooperShooter.pdb
+D:\Documents\source\Projects\StormTrooperShooter\obj\Debug\StormTrooperShooter.csprojAssemblyReference.cache
+D:\Documents\source\Projects\StormTrooperShooter\obj\Debug\StormTrooperShooter.Form1.resources
+D:\Documents\source\Projects\StormTrooperShooter\obj\Debug\StormTrooperShooter.Properties.Resources.resources
+D:\Documents\source\Projects\StormTrooperShooter\obj\Debug\StormTrooperShooter.csproj.GenerateResource.cache
+D:\Documents\source\Projects\StormTrooperShooter\obj\Debug\StormTrooperShooter.csproj.CoreCompileInputs.cache
+D:\Documents\source\Projects\StormTrooperShooter\obj\Debug\StormTrooperShooter.exe
+D:\Documents\source\Projects\StormTrooperShooter\obj\Debug\StormTrooperShooter.pdb
