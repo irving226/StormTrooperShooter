@@ -118,16 +118,52 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="troopdown" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\troopdown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="troopleft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\troopleft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="trooperup" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\trooperup.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="troopright" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\troopright.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="jedilleft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jedilleft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ammo-Image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ammo-Image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trooperdown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\trooperdown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jediup" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jediup.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="troopup" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\troopup.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trooperleft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\trooperleft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jedileft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jedileft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="troopdown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\troopdown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jedilright" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jedilright.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jedildown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jedildown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trooperright" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\trooperright.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="troopleft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\troopleft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trooperleft1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\trooperleft1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="deadtroop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\deadtroop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

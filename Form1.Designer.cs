@@ -86,10 +86,10 @@ namespace StormTrooperShooter
             // trooper
             // 
             this.trooper.ErrorImage = null;
-            this.trooper.Image = global::StormTrooperShooter.Properties.Resources.troopright;
-            this.trooper.Location = new System.Drawing.Point(514, 367);
+            this.trooper.Image = global::StormTrooperShooter.Properties.Resources.trooperright;
+            this.trooper.Location = new System.Drawing.Point(34, 295);
             this.trooper.Name = "trooper";
-            this.trooper.Size = new System.Drawing.Size(148, 118);
+            this.trooper.Size = new System.Drawing.Size(143, 113);
             this.trooper.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.trooper.TabIndex = 5;
             this.trooper.TabStop = false;
@@ -99,7 +99,7 @@ namespace StormTrooperShooter
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(132)))), ((int)(((byte)(79)))));
-            this.ClientSize = new System.Drawing.Size(1245, 773);
+            this.ClientSize = new System.Drawing.Size(1557, 899);
             this.Controls.Add(this.trooper);
             this.Controls.Add(this.healthBar);
             this.Controls.Add(this.label3);

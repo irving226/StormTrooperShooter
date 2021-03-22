@@ -92,5 +92,38 @@
   <ItemGroup>
     <None Include="Resources\troopup.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trooperright.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trooperleft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trooperdown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trooperup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ammo-Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jedileft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jedildown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jedilleft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jedilright.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jediup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deadtroop.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
